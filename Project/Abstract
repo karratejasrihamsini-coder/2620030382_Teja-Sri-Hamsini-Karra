@@ -1,0 +1,11 @@
+# ABSTRACT
+
+The Student Grievance Redressal Portal is a web-based application designed to provide students with a simple, accessible and transparent platform for submitting and tracking their grievances within an educational institution.
+In many colleges, complaints are often communicated through paper forms, verbal requests or scattered emails, making it difficult for students to monitor their complaints and for administrators to manage them efficiently.
+
+The proposed portal provides a centralized system where students can register, log in, submit grievances and track the status of their complaints. 
+Faculty members or administrators can access a dashboard to review submitted grievances, update their status and record the actions taken towards resolution.
+Additionally, students can provide feedback once their grievances have been resolved, helping improve the grievance-handling process.
+
+The application is developed using HTML, CSS and JavaScript, with LocalStorage used for storing and managing data within the browser.
+The portal aims to improve communication between students and college administration, promote transparency, reduce delays in grievance handling and provide a more organized approach to addressing student concerns.
